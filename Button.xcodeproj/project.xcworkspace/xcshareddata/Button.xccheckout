@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EFAC8264-7F44-4B79-8BEF-FD62EFD00EC2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Button</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>40E7A8A9-F462-4BA4-94B0-2D6C5317A25A</key>
+		<string>ssh://github.com/dvishnepolsky/Nov7.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Button.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>40E7A8A9-F462-4BA4-94B0-2D6C5317A25A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/dvishnepolsky/Nov7.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>40E7A8A9-F462-4BA4-94B0-2D6C5317A25A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>40E7A8A9-F462-4BA4-94B0-2D6C5317A25A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Nov7</string>
+		</dict>
+	</array>
+</dict>
+</plist>
